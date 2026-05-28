@@ -67,7 +67,7 @@ The platform comes pre-integrated with cutting-edge LLM providers:
 - OpenAI - https://openai.com/
 - Anthropic - https://www.anthropic.com/
 - Groq - https://groq.com/
-- Llama - https://llamaindex.ai/
+- Llama API - https://llama.developer.meta.com/
 - AI/ML API - [https://aimlapi.com/](https://aimlapi.com/?utm_source=autogpt&utm_medium=github&utm_campaign=integration)
   - AI/ML API provides 300+ AI models including Deepseek, Gemini, ChatGPT. The models run at enterprise-grade rate limits and uptimes.
 
