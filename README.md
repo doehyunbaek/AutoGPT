@@ -54,7 +54,7 @@ Before proceeding with the installation, ensure your system meets the following 
 ### Updated Setup Instructions:
 We've moved to a fully maintained and regularly updated documentation site.
 
-👉 [Follow the official self-hosting guide here](https://agpt.co/docs/platform/getting-started/getting-started)
+👉 [Follow the official self-hosting guide here](https://agpt.co/docs/platform/self-hosting/getting-started)
 
 
 This tutorial assumes you have Docker, VSCode, git and npm installed.
